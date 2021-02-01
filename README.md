@@ -13,9 +13,14 @@
 
 ## Installation
 
-The following are used along with python.
+This notebook runs on **anaconda distribution** with **python**. The following are used along with anaconda distribution.
 
-
+- keras
+- PIL
+- random
+- glob
+- sklearn
+- cv2
 
 ## Project Description
 
@@ -38,6 +43,12 @@ With this download you'll find the following files.
 - dog_app.ipynb 
 - README.md
 - LICENSE
+- picture1
+- picture3
+- picture4
+- picture6
+- human1
+- human2
 
 ```
 
