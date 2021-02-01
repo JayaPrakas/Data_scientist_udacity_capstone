@@ -1,26 +1,51 @@
-[//]: # (Image References)
+# Dod Breed Classifier
 
-[image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+## Table of contents
+
+- [Installation](#installation)
+- [Project Description](#Project-Description)
+- [Project motivation](#project-motivation)
+- [Interacting with this project](#Interacting-with-this-project)
+- [File descriptions](#File-descriptions)
+- [Acknowledgements](#Acknowledgements)
+- [License](#License)
 
 
-## Project Overview
+## Installation
 
-Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
+The following are used along with python.
 
-![Sample Output][image1]
 
-Along with exploring state-of-the-art CNN models for classification, you will make important design decisions about the user experience for your app.  Our goal is that by completing this lab, you understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.  Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.  Your imperfect solution will nonetheless create a fun user experience!
 
-## Project Instructions
+## Project Description
 
-### Instructions
+ This project, given an image of a dog, will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.
+
+## Project motivation
+
+As a requirement for the nanodegree [become a data scientist](https://www.udacity.com/course/data-scientist-nanodegree--nd025) of [Udacity](https://www.udacity.com/).
+
+## Interacting with this project
+
+- To interact, clone the repo: `git clone https://github.com/JayaPrakas/Data_scientist_udacity_capstone.git` or fork this repository
+
+## File descriptions
+
+With this download you'll find the following files.
+
+```text
+    
+- dog_app.ipynb 
+- README.md
+- LICENSE
+
+```
+
+## Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
 ```	
-git clone https://github.com/udacity/dog-project.git
-cd dog-project
+git clone https://github.com/JayaPrakas/Data_scientist_udacity_capstone.git
 ```
 
 2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`. 
@@ -100,17 +125,11 @@ jupyter notebook dog_app.ipynb
 
 12. (Optional) **If you are running the project on your local machine (and not using AWS)**, before running code, change the kernel to match the dog-project environment by using the drop-down menu (**Kernel > Change kernel > dog-project**). Then, follow the instructions in the notebook.
 
-__NOTE:__ While some code has already been implemented to get you started, you will need to implement additional functionality to successfully answer all of the questions included in the notebook. __Unless requested, do not modify code that has already been included.__
+# Acknowledgements
 
-## Evaluation
+Thanks to [Udacity](https://www.udacity.com/) for data, starter code and instructions
 
-Your project will be reviewed by a Udacity reviewer against the CNN project [rubric](https://review.udacity.com/#!/rubrics/810/view).  Review this rubric thoroughly, and self-evaluate your project before submission.  All criteria found in the rubric must meet specifications for you to pass.
+## License
 
-## Project Submission
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-When you are ready to submit your project, collect the following files and compress them into a single archive for upload:
-- The `dog_app.ipynb` file with fully functional code, all code cells executed and displaying output, and all questions answered.
-- An HTML or PDF export of the project notebook with the name `report.html` or `report.pdf`.
-- Any additional images used for the project that were not supplied to you for the project. __Please do not include the project data sets in the `dogImages/` or `lfw/` folders.  Likewise, please do not include the `bottleneck_features/` folder.__
-
-Alternatively, your submission could consist of the GitHub link to your repository.
