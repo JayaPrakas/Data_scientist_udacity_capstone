@@ -25,6 +25,7 @@ This notebook runs on **anaconda distribution** with **python**. The following a
 ## Project Description
 
  This project, given an image of a dog, will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.
+ Details of input data used is given below in instructions.
 
 ## Project motivation
 
@@ -53,6 +54,10 @@ With this download you'll find the following files.
 ```
 
 ## Instructions
+
+This project is built with convolutional models from keras, ResNet50 and InceptionV3 models and our expected solution is breed name of dog if it is a dog, resembling breed if it is human and not a human message if it is neither a dog or human. Here we use accuracy metrics to evaluate our models.
+
+To get started we must follow instructions below.
 
 1. Clone the repository and navigate to the downloaded folder.
 ```	
