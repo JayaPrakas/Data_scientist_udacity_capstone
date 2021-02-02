@@ -145,6 +145,15 @@ jupyter notebook dog_app.ipynb
 
 Thanks to [Udacity](https://www.udacity.com/) for data, starter code and instructions
 
+[photo1](<span>Photo by <a href="https://unsplash.com/@gxldy?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ash Goldsbrough</a> on <a href="https://unsplash.com/s/photos/dogs?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>)
+
+[photo2](<span>Photo by <a href="https://unsplash.com/@skucinic9?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sven Kucinic</a> on <a href="https://unsplash.com/s/photos/dogs?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>)
+
+[photo3](<span>Photo by <a href="https://unsplash.com/@camilofierro14?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Camilo Fierro</a> on <a href="https://unsplash.com/s/photos/dogs?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>)
+
+[photo4](<span>Photo by <a href="https://unsplash.com/@e_d_g_a_r?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Edgar</a> on <a href="https://unsplash.com/s/photos/animals?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>)
+
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
