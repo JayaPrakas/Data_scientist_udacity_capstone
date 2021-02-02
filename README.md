@@ -1,5 +1,7 @@
 # Dod Breed Classifier
 
+Blog post corresponding to this notebook can be read here [Lets predict dog breed](https://jayaprakashks.medium.com/lets-predict-dog-breeds-13c47ece10fd)
+
 ## Table of contents
 
 - [Installation](#installation)
