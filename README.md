@@ -48,12 +48,13 @@ With this download you'll find the following files.
 - dog_app.ipynb 
 - README.md
 - LICENSE
-- picture1
-- picture3
-- picture4
-- picture6
-- human1
-- human2
+- report.html 
+- image1
+- image2
+- image3
+- image4
+- image5
+- image6
 
 ```
 
