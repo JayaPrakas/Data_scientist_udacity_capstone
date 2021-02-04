@@ -9,6 +9,8 @@ Blog post corresponding to this notebook can be read [here](https://jayaprakashk
 - [Project motivation](#project-motivation)
 - [Interacting with this project](#Interacting-with-this-project)
 - [File descriptions](#File-descriptions)
+- [Instructions](#Instructions)
+- [Results](#Results)
 - [Acknowledgements](#Acknowledgements)
 - [License](#License)
 
@@ -142,6 +144,16 @@ jupyter notebook dog_app.ipynb
 ```
 
 12. (Optional) **If you are running the project on your local machine (and not using AWS)**, before running code, change the kernel to match the dog-project environment by using the drop-down menu (**Kernel > Change kernel > dog-project**). Then, follow the instructions in the notebook.
+
+# Results
+
+First we took images data of dogs and humans and we pre-processed it to fixed size and then we built simple keras model with few convolutional layers and filters which gave less accuracy
+
+Next we used our data with VGG model using transfer learning which gave more accuracy.
+
+Finally we used Inception model which further increased accuracy of model and thus what I find interesting is concept of Inception model which is deep and challenging and exciting to work with as it gives lot of ease for classification of image.
+
+Results are when supplied with image of dog, it results it is a dog and predicted dog breed label, if image is human, it results as it is human and resembling predicted breed name and if it is other than dog and human, it results as it is not both and resembling breed name is shown.
 
 # Acknowledgements
 
